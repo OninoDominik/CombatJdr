@@ -1,0 +1,4 @@
+C:\Users\grobe\source\repos\CombatJdr\CombatJdr\obj\Debug\netcoreapp3.1\CombatJdr.csprojAssemblyReference.cache
+C:\Users\grobe\source\repos\CombatJdr\CombatJdr\obj\Debug\netcoreapp3.1\CombatJdr.AssemblyInfoInputs.cache
+C:\Users\grobe\source\repos\CombatJdr\CombatJdr\obj\Debug\netcoreapp3.1\CombatJdr.AssemblyInfo.cs
+C:\Users\grobe\source\repos\CombatJdr\CombatJdr\obj\Debug\netcoreapp3.1\CombatJdr.csproj.CoreCompileInputs.cache
